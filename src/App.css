@@ -1,0 +1,22 @@
+.header{
+      background-color: #8ad0ff;
+      background-image: linear-gradient(135deg, #8ad0ff 0%, #babdff 100%);
+      height: 100vh;
+      overflow-y: hidden;
+}
+.canvas{
+      background-color: white;
+}
+.heading{
+      color: rgb(185, 185, 185);
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-weight: 900;
+      font-size: 25px;
+}
+.btn{
+      box-shadow: 3px 3px 5px black;
+}
+.nav-link{
+      color: white;
+      transition: 0.3s;
+}
